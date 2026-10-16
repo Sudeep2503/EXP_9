@@ -209,7 +209,7 @@ The retrieved username and student records are displayed using TextView elements
 
 **Expected Result:** All student records should be deleted, and the application should display a message indicating that no records were found.
 
-**Screenshot:** `![alt text](<Screenshot 2026-10-16 121706.png>)`
+**Screenshot:** ![alt text](<Screenshot 2026-10-16 121706.png>)
 
 **Actual Result:** To be recorded after execution.
 
