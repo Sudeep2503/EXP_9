@@ -172,7 +172,7 @@ The retrieved username and student records are displayed using TextView elements
 
 **Expected Result:** The previously saved username should be displayed, including after reopening the application.
 
-**Screenshot:** `![alt text](<Screenshot 2026-10-16 121551.png>)`
+**Screenshot:** ![alt text](<Screenshot 2026-10-16 121551.png>)
 
 **Actual Result:** To be recorded after execution.
 
@@ -191,7 +191,7 @@ The retrieved username and student records are displayed using TextView elements
 
 **Expected Result:** The inserted student record should be displayed and remain available after reopening the application.
 
-**Screenshot:** `![alt text](<Screenshot 2026-10-16 121640.png>)`
+**Screenshot:** ![alt text](<Screenshot 2026-10-16 121640.png>)
 
 **Actual Result:** To be recorded after execution.
 
